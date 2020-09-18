@@ -1,1 +1,3 @@
+//Example of JSON file of friendships
+
 {"Fede":["France","Gianlu"],"Gianlu":["France","Fede"],"France":["Gianlu","Fede"]}
